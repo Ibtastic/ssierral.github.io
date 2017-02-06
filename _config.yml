@@ -14,12 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Sebastian Sierra
-email: ssierral@unal.edu.co
+email: ssierral at unal.edu.co
 description: > # this means to ignore newlines until "baseurl:"
-  I am a student of last year of Master in Computing and Systems Engineering
-  at Universidad Nacional de Colombia. Big fan of the greatest colombian
-  football team, Independiente Santa Fe. My main research focus has been
-  Machine Learning, Natural Language Processing and Text Representation.
+  Personal blog of Sebastian Sierra. MSc student at UNAL.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ssierral12

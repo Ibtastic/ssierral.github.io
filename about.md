@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+{: style="text-align:center"}
+<img alt = "My helpful profile" src="{{ site.url }}/assets/profile.jpg" width="200">
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I am a student of last year of Master in Computing and Systems Engineering at Universidad Nacional de Colombia. 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Big fan of the greatest colombian football team, Independiente Santa Fe. My main research focus has been Machine Learning, Natural Language Processing and Text Representation.
+
+Github projects:
+{% include icon-github.html username="ssierral" %}
+
+CV:
+[PDF]({{ site.url }}/assets/curriculum-vitae.pdf)
