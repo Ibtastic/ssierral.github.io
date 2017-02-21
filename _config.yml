@@ -24,8 +24,8 @@ github_username:  ssierral
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-dinky
 #theme: jekyll-theme-dinky
+theme: minima
 gems:
   - jekyll-feed
 exclude:
