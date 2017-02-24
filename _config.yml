@@ -16,7 +16,7 @@
 title: Sebastian Sierra
 email: ssierral at unal.edu.co
 description: > # this means to ignore newlines until "baseurl:"
-  Personal blog of Sebastian Sierra. MSc student at UNAL.  
+  Personal blog of Sebastian Sierra. MSc student at UNAL.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ssierral12
@@ -24,8 +24,8 @@ github_username:  ssierral
 
 # Build settings
 markdown: kramdown
-theme: minima
 #theme: jekyll-theme-dinky
+theme: minima
 gems:
   - jekyll-feed
 exclude:
