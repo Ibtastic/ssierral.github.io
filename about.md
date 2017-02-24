@@ -15,4 +15,4 @@ Github projects:
 {% include icon-github.html username="ssierral" %}
 
 CV:
-[PDF]({{ site.url }}/assets/curriculum-vitae (1).pdf)
+[PDF]({{ site.url }}/assets/curriculum-vitae.pdf)
